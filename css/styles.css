@@ -61,10 +61,6 @@ p {
     margin: 20px;
 }
 
-.fondoNav {
-    width: 100px;
-}
-
 .fotoPerfil {
     width: 400px;
 }
@@ -72,11 +68,12 @@ p {
 .boton {
     font-size: 20px;
 }
+
 .redes img {
     width: 5rem;
 }
 
-.seccionContacto {
+.hablemos {
     background-color: rgba(175, 89, 158, 0.3);
 }
 
